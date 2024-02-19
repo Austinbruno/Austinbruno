@@ -1,17 +1,31 @@
-👋 Hey, I'm Bruno Unyime - Frontend Alchemist! 
+# 👋 Hey, I'm Bruno Unyime - Full-Stack Software Developer! 
 
-Passionate about crafting delightful user experiences with JavaScript, ReactJS, NextJS, and styling magic using Chakra UI and Tailwind CSS. While I'm known for my frontend finesse, I've got a versatile dance card with a stint in JavaScript, TypeScript, and a brief fling with the backend in Node.js.
+Passionate about crafting delightful user experiences and robust server-side solutions, I thrive in the dynamic world of software development. My expertise spans across both frontend and backend technologies, allowing me to create seamless end-to-end experiences for users.
 
-✨ Frontend Flourish
-In the realm of front-end, I'm all about creating stunning, responsive, and pixel-perfect interfaces. I breathe life into designs with ReactJS and NextJS, adding that extra touch of magic.
+## ✨ Frontend and Backend Brilliance
+I'm equally adept at crafting stunning user interfaces and building scalable backend systems. Whether it's breathing life into designs with JavaScript, ReactJS, and NextJS or architecting robust APIs and services with Node.js, I'm here to deliver excellence on all fronts.
 
-🚀 UI Architect
-Championing Chakra UI and Tailwind CSS, I sculpt beautiful and intuitive UIs that leave users in awe. Design systems and component libraries are my playground.
+## 🚀 UI Architect and Backend Builder
+From sculpting beautiful and intuitive UIs with Chakra UI and Tailwind CSS to architecting backend solutions with Node.js, I cover the full spectrum of software development. Design systems, component libraries, APIs, and databases are all part of my toolkit.
 
-🌈 Creative Coder
-Every line of code is an opportunity for creativity. I believe in writing functional but also elegant and maintainable code that stands the test of time.
+## 🧰 Tools in My Belt
+Here are some of the tools I wield in my coding adventures:
+- **JavaScript/TypeScript**
+- **ReactJS**
+- **NextJS**
+- **Chakra UI**
+- **Tailwind CSS**
+- **Node.js**
+- **Express**
+- **MongoDB**
+- **PostgreSQL**
+- **RESTful APIs**
+- **GraphQL**
 
-💡 Learning Journey
-As the frontend landscape evolves, so do I. I'm on a perpetual learning journey, exploring the latest trends and techniques to keep my skills sharp.
+## 🌈 Creative Coder
+Every line of code is an opportunity for creativity. I believe in writing not just functional but also elegant and maintainable code that stands the test of time.
 
-Join me in the realm of front-end sorcery as we conjure up stunning web experiences together! ✨
+## 💡 Learning Journey
+As technology evolves, so do I. I'm committed to staying abreast of the latest trends and best practices in both frontend and backend development. My learning journey is perpetual, ensuring that my skills remain sharp and relevant.
+
+Join me in the world of full-stack software development as we build exceptional digital experiences together! ✨
